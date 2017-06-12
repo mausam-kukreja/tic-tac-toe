@@ -1,0 +1,10 @@
+.xo {
+  border: 1px solid black;
+  height: 200px;
+  width: 200px;
+  text-align: center;
+  font-size: 175px;
+}
+.row {
+  display: flex;
+}
