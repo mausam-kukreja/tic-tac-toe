@@ -20,7 +20,6 @@ class Result extends Component {
     );
   }
 }
-
 Result.propTypes = {
   won: PropTypes.string,
   turn: PropTypes.string.isRequired,
